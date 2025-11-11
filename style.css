@@ -38,7 +38,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
 }
-a{
+.a{
     margin-top: 10px;
 }
 u{
